@@ -1,0 +1,14 @@
+/* Michael Jphnson 02/03/2026 */
+
+h1 {
+    font-family: Tahoma;
+    font-size: 3em
+}
+
+h2.sample-class {
+    color: #1f0099;
+}
+
+#footer {
+    font-size: 0.9em;
+}
